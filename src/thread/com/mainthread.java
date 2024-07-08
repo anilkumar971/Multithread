@@ -20,6 +20,7 @@ public class mainthread extends Thread {
         System.out.println(t1);
 
         System.out.println(Thread.activeCount());
+        System.out.println("testing  git revert");
 
 
 
